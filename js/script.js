@@ -1,16 +1,14 @@
 const epicMix = [
-  "Time to Pretend",
-  "O-o-oh Child",
-  "Wish You Were Here",
-  "Heroes",
-  "I Put a Spell on You",
-  "Call Me",
-  "Paper Planes",
-  "Jolene",
-  "You Don't Own Me",
-  "Fast Car",
-  "Run the World (Girls)",
-  "Superstition",
+  "How Great is Our God",
+  "I Just Wanna Praise You",
+  "No Weapon",
+  "You Brought the Sunshine",
+  "Golden",
+  "Video",
+  "Brown Skin Lady",
+  "Don't Stop Til' You Get Enough",
+  "Let's Stay Together",
+  "You Remind Me",
   "Got To Give It Up"
 ];
 
